@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+
+}
+
+#logo {
+	height: 20 px;
+	width: 20 px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+
+}
